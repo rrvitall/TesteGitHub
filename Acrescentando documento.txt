@@ -4,4 +4,7 @@ Verificando como funcionao branch no GitHub!!!
 
 Mais um teste para verificação do merge e do pull request!!!
 
-mais teste!!
+mais um teste!!
+
+testando pull request do Branch para Master!!!
+
